@@ -51,7 +51,7 @@ pip install pandas scikit-learn matplotlib seaborn joblib
 Execute the main Python script from your terminal. The script will handle everything from EDA to model training and saving the results.
 
 ```bash
-python full_cyber_analysis.py
+python cyber_analysis.py
 ```
 
 -----
